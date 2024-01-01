@@ -1,0 +1,28 @@
+.Exercise{
+    width: 100%;
+    /* border: 2px solid red; */
+    padding: 2.5rem;
+}
+.searchSection{
+    width: 100%;
+    height: 100px;
+    /* border: 2px solid red; */
+
+}
+.searchSection input{
+    width: 100%;
+    height: 40px;
+    border: 1px solid gray;
+    padding-left: 1rem;
+    border-radius: 5px;
+
+}
+.cardsCome{
+    border: 2px solid red;
+}
+.cardsContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap:0.6rem;
+}

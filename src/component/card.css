@@ -1,0 +1,7 @@
+.cards{
+    /* border: 1px solid rgb(124, 123, 123); */
+    border-radius: 10px;
+    box-shadow: 2px 4px 5px rgb(192, 192, 192);
+    width: 31%;
+    padding: 1rem;
+}
